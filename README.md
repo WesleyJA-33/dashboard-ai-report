@@ -90,7 +90,7 @@ Filtros:
 - Delivery Status
 
 Perguntas de negócios e KPIs:
-- Qaul a quantidade de vendas e receitas por estado?
+- Qual a quantidade de vendas e receitas por estado?
 - Qual a quantidade vendida por Model Year?
 - Qual o modelo de carro que menos vendeu?
 - Qual a quantidade por Delevery Status em cada Estado?
