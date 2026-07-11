@@ -25,6 +25,9 @@ Após a execução do agente, foram gerados os seguintes arquivos:
 * `porsche_data_base_sanitize.xlsx` — Base de dados tratada.
 * `porsche_sanitizer_agent.py` — Script Python responsável por automatizar o processo de tratamento, permitindo sua reutilização em bases maiores.
 
+### Como usar o Script Python
+Para ver orientações de uso do arquivo `porsche_sanitizer_agent.py` no Jupiter Notebook, acesse o arquivo `orientação_script_python.md`. 
+
 ---
 
 ## 2ª Etapa — Validação dos dados
@@ -98,3 +101,7 @@ https://www.porsche.com.brazil/pt/
 
 Faça um design elegante e refinado.
 ```
+
+# Orientações de Uso do Script Python (Agente)
+
+Para ver orientações de uso do Script Python no Jupiter Notebook, acesse o arquivo `orientação_script_python.md`.
